@@ -5,7 +5,7 @@ class AppConstants {
 
     companion object{
 
-        const val BASE_URL = "http://172.104.156.221:8080/mobile_wrapper/"
+        const val BASE_URL = ""
         const val defaultLanguageKey:String ="DEFAULT_LANGUAGE"
         const val USER_TOKEN="user token"
         const val isLoggedInKey:String ="isLoggedInKey"
