@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.example.cleanappkotlin.ui.HomeFragment"
+        android:name="com.example.cleanappkotlin.dei.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/webViewFragment"
-        android:name="com.example.cleanappkotlin.ui.webview.WebViewFragment"
+        android:name="com.example.cleanappkotlin.dei.webview.WebViewFragment"
         android:label="fragment_web_view"
         tools:layout="@layout/fragment_web_view" >
         <action

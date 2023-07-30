@@ -1,10 +1,8 @@
 package com.example.cleanappkotlin
 
-import android.R
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.cleanappkotlin.databinding.ActivityMainBinding
-import com.example.cleanappkotlin.ui.webview.WebViewFragment
 import dagger.hilt.android.AndroidEntryPoint
 
 
